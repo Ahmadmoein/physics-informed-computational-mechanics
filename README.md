@@ -419,4 +419,7 @@ Computational Mechanics & Scientific Computing
 Institute of Structural Analysis  
 TU Dresden
 
-GitHub: [@Ahmadmoein](/Ahmadmoein)
+- [GitHub](https://github.com/Ahmadmoein)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-moeineddin-599837175/)
+- [Google Scholar](https://scholar.google.com/citations?user=eOQXTPIAAAAJ&hl=en)
+- [ORCID](www.linkedin.com/in/ahmad-moeineddin-599837175)
