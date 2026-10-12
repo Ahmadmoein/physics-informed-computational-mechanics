@@ -31,7 +31,7 @@ exact attribution.
 Several implementations associated with this research program are available
 through the collaborative repository:
 
-### [phyml4e/PINNs](/phyml4e/PINNs)
+### [phyml4e/PINNs](https://github.com/phyml4e/PINNs)
 
 The repository contains implementations and examples for:
 
